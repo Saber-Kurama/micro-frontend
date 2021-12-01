@@ -23,3 +23,5 @@ https://www.downtr.club/
 
 [微前端：构建 Web 应用程序的下一代方法](https://dev.to/ruppysuppy/micro-frontends-the-next-gen-way-to-build-web-apps-16da)
 https://github.com/ruppysuppy/Crypto-Crowdfund
+
+[single-spa-workshop](https://single-spa-workshop.com/webinars)
