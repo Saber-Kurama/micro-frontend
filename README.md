@@ -25,3 +25,7 @@ https://www.downtr.club/
 https://github.com/ruppysuppy/Crypto-Crowdfund
 
 [single-spa-workshop](https://single-spa-workshop.com/webinars)
+
+[Build Micro frontends in NextJS and ReactJS with Webpack 5 Module Federation](https://medium.com/a-layman/build-micro-frontends-in-nextjs-and-reactjs-with-webpack-5-module-federation-e142ad76f48c)
+
+https://github.com/luxutao/live2d-chrome-extension
